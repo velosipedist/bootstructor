@@ -1,0 +1,12 @@
+{
+	"name": "velosipedist/bootstructor",
+	"description": "Twitter Bootstrap DRY-snippets on top of Html Object library. Makes them fully framework-independent",
+	"keywords": [
+		"bootstrap",
+		"framework"
+	],
+	"require": {
+		"php": ">=5.4.0",
+		"anahkiasen/html-object": "1.4.*"
+	}
+}
